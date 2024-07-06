@@ -6,3 +6,4 @@
 
 oscarfonts/geoserver:2.25.2
 dpage/pgadmin4:8.9
+postgis/postgis:16-3.4-alpine
