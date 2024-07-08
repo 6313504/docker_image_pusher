@@ -8,6 +8,8 @@ oscarfonts/geoserver:2.25.2
 dpage/pgadmin4:8.9
 postgis/postgis:16-3.4-alpine
 node:20-alpine
+alpine:3.19
+alpine:3.20
 alpine:3.20.1
 redis:7.2.5
 amazoncorretto:11-alpine3.19-jdk
