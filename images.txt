@@ -11,6 +11,7 @@ node:20-alpine
 alpine:3.19
 alpine:3.20
 alpine:3.20.1
+python:3.12.4-alpine3.20
 redis:7.2.5
 amazoncorretto:11-alpine3.19-jdk
 sjqzhang/go-fastdfs:v1.4.5
