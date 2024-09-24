@@ -17,3 +17,5 @@ redis:7.2.5
 amazoncorretto:11-alpine3.19-jdk
 sjqzhang/go-fastdfs:v1.4.5
 sjqzhang/go-fastdfs-web:latest
+hasura/graphql-engine:v2.42.0
+hasura/graphql-data-connector:v2.42.0
