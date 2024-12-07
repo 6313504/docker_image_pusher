@@ -5,6 +5,7 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 oscarfonts/geoserver:2.25.2
+oscarfonts/geoserver:2.26.1
 dpage/pgadmin4:8.9
 dpage/pgadmin4:8.13
 postgis/postgis:16-3.4-alpine
