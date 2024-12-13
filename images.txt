@@ -8,9 +8,10 @@ oscarfonts/geoserver:2.25.2
 oscarfonts/geoserver:2.26.1
 dpage/pgadmin4:8.9
 dpage/pgadmin4:8.13
+postgis/postgis:16-3.4
 postgis/postgis:16-3.4-alpine
-postgis/postgis:17-3.5-alpine
 postgis/postgis:17-3.5
+postgis/postgis:17-3.5-alpine
 node:20-alpine
 alpine:3.19
 alpine:3.20
