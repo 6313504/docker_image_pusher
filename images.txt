@@ -26,4 +26,5 @@
 #hasura/graphql-data-connector:v2.42.0
 #blinkospace/blinko:latest
 weejewel/wg-easy:latest
+--platform linux/arm64 weejewel/wg-easy:latest
 #paddlepaddle/paddle:3.0.0-gpu-cuda12.6-cudnn9.5-trt10.5
